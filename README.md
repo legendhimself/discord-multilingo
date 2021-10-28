@@ -1,1 +1,1 @@
-# discord-polyglot
+# discord-multilingo
